@@ -1,6 +1,7 @@
 #------------------------------------------------------------------------------
 # w32time
 #   Get parameters of W32Time service
+#   More info at http://technet.microsoft.com/en-us/library/cc773263(v=ws.10).aspx
 #
 # Change history
 #   20130828 - first version
