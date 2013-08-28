@@ -28,7 +28,7 @@ my %config =
 
 sub getConfig     {return %config;}
 sub getShortDescr {return "Get parameters of W32Time service";}
-sub getDescr      {return "The W32Time service keeps computer clock accurate";}
+sub getDescr      {return "The W32Time keys contains all infos about system synchronization";}
 sub getRefs       {return "n/a";}
 sub getHive       {return $config{hive};}
 sub getVersion    {return $config{version};}
